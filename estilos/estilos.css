@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(0, 81, 255);
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    }
+    h1 {
+    color: white;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    }
+    p {
+         color: aliceblue;
+         font-family:Verdana, Geneva, Tahoma, sans-serif;
+         font-size: 6x;
+         text-align: center;
+         
+    }
+    
+
+    #greentext {
+         color: rgb(255, 255, 255);
+         font-family: Arial, Helvetica, sans-serif;
+         text-align: center;
+    }
+
+    .texto-grande {
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+    text-align: center;
+
+     }
+
+     .color-fondo{
+        background-color:rgb(255, 0, 98);
+        color: rgb(5, 238, 207);
+        text-align: center;
+
+     }
+
+     a {color:aliceblue}
+     
